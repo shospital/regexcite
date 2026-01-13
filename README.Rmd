@@ -18,14 +18,16 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of regexcite is to ...
+The goal of regexcite is to learn how to create a R package! 
 
 ## Installation
 
 You can install the development version of regexcite like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+1. clone the repository from my github!
+2. maybe later in cran
+
 ```
 
 ## Example
